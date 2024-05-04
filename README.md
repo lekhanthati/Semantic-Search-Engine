@@ -6,7 +6,9 @@ Develop an advanced search engine algorithm that efficiently retrieves subtitles
 ## Technologies Used
 
 Python 
+
 Flask
+
 HTML
 
 
